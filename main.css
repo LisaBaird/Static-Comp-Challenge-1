@@ -1,0 +1,240 @@
+/*at 320*/
+body {
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
+
+.squares-container {
+  height: 100vh;
+  width: 100%;
+  display: inline-flex;
+  flex-wrap: wrap;
+  border: 2px dashed black;
+}
+.resume {
+  padding: 10px;
+  border: 2px solid white;
+  background-color: red;
+  color:inherit;
+  margin-left: 20px;
+}
+.contact {
+  padding: 10px;
+  border: 2px solid white;
+  background-color: red;
+  color:inherit;
+  margin-left: 10px;
+}
+
+.skills {
+  font-size: 12px;
+}
+
+.headshot {
+  height:115px;
+  width: 85px;
+  float:right;
+  margin: 20px;
+}
+
+.name {
+  display:inline;
+  height:35px;
+  font-size: 20px;
+  margin: 20px;
+}
+
+.topic {
+  text-align: center;
+  font-size: 16px;
+  display: block;
+  margin: 5px;
+}
+
+.icon {
+  width: 80px;
+  height:60px;
+}
+
+.box1 {
+  width: 100%;
+  height: auto;
+  background-color: red;
+}
+
+.box2 {
+  width: 50%;
+  height: auto;
+  align-items: center;
+  background-color: orange;
+}
+.box3 {
+  width: 50%;
+  height:auto;
+  background-color: green;
+}
+
+.box4 {
+  width:50%;
+  height:auto;
+  background-color: blue;
+}
+
+.box5 {
+  width:50%;
+  height:auto;
+  background-color: brown;
+}
+
+.box6 {
+  width:50%;
+  height: auto;
+  background-color: red;
+}
+
+.box7 {
+  width:50%;
+  height:auto;
+  background-color: orange;
+}
+
+.box8 {
+  width:100%;
+  height:auto;
+  background-color: blue;
+}
+
+/*ipad size*/
+@media only screen  and (min-width:460px) {
+
+.squares-container {
+  height: 100vh;
+  width: 100%;
+  display: inline-flex;
+  flex-wrap: wrap;
+  border: 2px dashed black;
+}
+
+.box1 {
+  width: 70%;
+  height: 33%;
+  height:auto;
+  background-color: red;
+}
+
+.box2 {
+  width: 30%;
+  height: 33%;
+  background-color: orange;
+}
+
+.box3 {
+  width: 50%;
+  height:33%;
+  background-color: green;
+}
+
+.box4 {
+  width:50%;
+  height:33%;
+  background-color: blue;
+}
+
+.box5 {
+  width:50%;
+  height:33%;
+  background-color: brown;
+}
+
+.box6 {
+  width:50%;
+  height: auto;
+  background-color: red;
+}
+
+.box7 {
+  width:50%;
+  height: auto;
+  background-color: orange;
+}
+
+.box8 {
+  width:50%;
+  height:auto;
+  background-color: blue;
+}
+
+
+/*full screen */
+@media only screen and (min-width:760px) {
+.squares-container {
+  height: 100vh;
+  width: 60%;
+  display: inline-flex;
+  flex-wrap: wrap;
+  border: 2px dashed black;
+}
+.photo-container {
+  height: 100vh;
+  width: 38%;
+  float: right;
+  border: 2px solid  black;
+}
+}
+
+.box1 {
+  width: 66%;
+  height:33%;
+  background-color: red;
+
+}
+
+.box2 {
+  width: 33%;
+  height: 33%;
+  background-color: orange;
+
+}
+
+.box3 {
+  width:33%;
+  height:33%;
+  background-color: green;
+
+}
+
+.box4 {
+  width:33%;
+  height:33%;
+  background-color: blue;
+
+}
+
+.box5 {
+  width:33%;
+  height:33%;
+  background-color: brown;
+
+}
+
+.box6 {
+  width:33%;
+  height:33%;
+  background-color: red;
+
+}
+
+.box7 {
+  width:33%;
+  height:33%;
+  background-color: orange;
+
+}
+
+.box8 {
+  width:33%;
+  height:33%;
+  background-color: blue;
+
+}
+}
