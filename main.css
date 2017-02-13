@@ -14,14 +14,14 @@ body {
 .resume {
   padding: 10px;
   border: 2px solid white;
-  background-color: red;
+  background-color: #91A8A4;
   color:inherit;
   margin-left: 20px;
 }
 .contact {
   padding: 10px;
   border: 2px solid white;
-  background-color: red;
+  background-color: #91A8A4;
   color:inherit;
   margin-left: 10px;
 }
@@ -59,49 +59,49 @@ body {
 .box1 {
   width: 100%;
   height: auto;
-  background-color: red;
+  background-color:#91A8A4;
 }
 
 .box2 {
   width: 50%;
   height: auto;
   align-items: center;
-  background-color: orange;
+  background-color: #F4F9E9;
 }
 .box3 {
   width: 50%;
   height:auto;
-  background-color: green;
+  background-color: #C0D6DF;
 }
 
 .box4 {
   width:50%;
   height:auto;
-  background-color: blue;
+  background-color:#656582;
 }
 
 .box5 {
   width:50%;
   height:auto;
-  background-color: brown;
+  background-color:#C0D6DF;
 }
 
 .box6 {
   width:50%;
   height: auto;
-  background-color: red;
+  background-color: #91A8A4;
 }
 
 .box7 {
   width:50%;
   height:auto;
-  background-color: orange;
+  background-color:#F4F9E9;
 }
 
 .box8 {
   width:100%;
   height:auto;
-  background-color: blue;
+  background-color:#656582;
 }
 
 /*ipad size*/
@@ -119,49 +119,49 @@ body {
   width: 70%;
   height: 33%;
   height:auto;
-  background-color: red;
+  background-color:#91A8A4;
 }
 
 .box2 {
   width: 30%;
   height: 33%;
-  background-color: orange;
+  background-color: #F4F9E9;
 }
 
 .box3 {
   width: 50%;
   height:33%;
-  background-color: green;
+  background-color:  #C0D6DF;
 }
 
 .box4 {
   width:50%;
   height:33%;
-  background-color: blue;
+  background-color:#656582;
 }
 
 .box5 {
   width:50%;
   height:33%;
-  background-color: brown;
+  background-color:#C0D6DF;
 }
 
 .box6 {
   width:50%;
   height: auto;
-  background-color: red;
+  background-color:#91A8A4;
 }
 
 .box7 {
   width:50%;
   height: auto;
-  background-color: orange;
+  background-color:#F4F9E9;
 }
 
 .box8 {
   width:50%;
   height:auto;
-  background-color: blue;
+  background-color:#656582;
 }
 
 
@@ -180,7 +180,7 @@ body {
     width: 66%;
     height: 33%;
     height:auto;
-    background-color: red;
+    background-color: #284B63;
   }
 
 .photo-container {
@@ -197,7 +197,7 @@ body {
 .box2 {
   width: 33%;
   height: 33%;
-  background-color: orange;
+  background-color: #F4F9E9;
 }
 
 .box3 {
@@ -205,40 +205,40 @@ body {
   border: 0px;
   width:33%;
   height:33%;
-  background-color: green;
+  background-color:  #C0D6DF;
 }
 
 .box4 {
 
   width:33%;
   height:33%;
-  background-color: blue;
+  background-color: #656582;
 }
 
 .box5 {
 
   width:33%;
   height:33%;
-  background-color: brown;
+  background-color:#C0D6DF;
 }
 
 .box6 {
 
   width:33%;
   height:33%;
-  background-color: red;
+  background-color: #91A8A4;
 }
 
 .box7 {
 
   width:33%;
   height:33%;
-  background-color: orange;
+  background-color: #F4F9E9;
 }
 
 .box8 {
 
   width:33%;
   height:33%;
-  background-color: blue;
+  background-color: #656582;
 }
